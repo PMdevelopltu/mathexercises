@@ -2,7 +2,7 @@
 This project is an early build of "Matematinės užduotys".
 
 Important! 
-This program is only in Lithuanian language. Sorry about that :( .
+This program right now is available only in Lithuanian language. Sorry about that :( .
 
 Update 23/04/2021
 
