@@ -4,7 +4,7 @@ This project is an early build of "Matematinės užduotys".
 Important! 
 This program is only in Lithuanian language. Sorry about that :( .
 
-Update23/04/2021:
+Update 23/04/2021:
 What's new:
 - Added new level "Sunkus"
 - New colors for answer boxes
