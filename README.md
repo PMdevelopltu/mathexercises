@@ -5,6 +5,13 @@ Written in C#
 Important! 
 This program right now is available only in Lithuanian language. Sorry about that :( .
 
+Update 24/04/2021
+What's new:
+- added background for each level.
+- fixed bug in the level "Sunkus" division answer box won't change his color when answer is right.
+Know bugs:
+- The program crashes when subtraction results in a minus. User gets message, "Input string was not in a correct format." Press continue, this bug will be fixed in future.
+
 Update 23/04/2021
 
 What's new:
