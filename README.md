@@ -7,6 +7,15 @@ This program right now is available only in Lithuanian language. Sorry about tha
 
 Update 24/04/2021
 
+Release v1.0
+What's new:
+
+- added support for English language.
+
+Known bugs:
+
+- The program crashes when subtraction results in a minus. User gets message, "Input string was not in a correct format." Press continue, this bug will be fixed in future.
+
 What's new:
 
 - added background for each level.
