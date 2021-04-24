@@ -2,8 +2,7 @@
 This project is an early build of "Matematinės užduotys".
 Written in C# 
 
-Important! 
-This program right now is available only in Lithuanian language. Sorry about that :( .
+Now supports English and Lithuanian languages!
 
 Update 24/04/2021
 
