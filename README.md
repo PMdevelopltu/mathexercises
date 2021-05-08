@@ -3,7 +3,8 @@ Official page of program "Matematikos užduotys" / "Math exercises".
 Written in C# 
 
 Now supports English and Lithuanian languages!
-Update 8/05/2021
+
+Update 8/05/2021 
 Release v1.0.1
 
 What's new:
@@ -18,7 +19,7 @@ Fixed bugs:
 
 Update 24/04/2021
 
-Release v1.0
+Release v1.0 
 What's new:
 
 - added support for English language.
