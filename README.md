@@ -1,8 +1,20 @@
 # mathexercises
-This project is an early build of "Matematinės užduotys".
+Official page of program "Matematikos užduotys" / "Math exercises". 
 Written in C# 
 
 Now supports English and Lithuanian languages!
+Update 8/05/2021
+Release v1.0.1
+
+What's new:
+
+- Added button check (tikrinti).
+
+Fixed bugs:
+
+- The program crashes when subtraction results in a minus. User gets message, "Input string was not in a correct format.";
+- The program crashes when subtraction results in a minus;
+- The program crashes when the user wants to chage wrong answer.
 
 Update 24/04/2021
 
