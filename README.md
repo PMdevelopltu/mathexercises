@@ -14,7 +14,6 @@ What's new:
 Fixed bugs:
 
 - The program crashes when subtraction results in a minus. User gets message, "Input string was not in a correct format.";
-- The program crashes when subtraction results in a minus;
 - The program crashes when the user wants to chage wrong answer.
 
 Update 24/04/2021
