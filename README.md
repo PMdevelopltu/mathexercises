@@ -2,6 +2,10 @@
 Official page of program "Matematikos užduotys" / "Math exercises". 
 Written in C# 
 
+Important!
+
+All beta versions supports only Lithuanian languge :).
+
 Now supports English and Lithuanian languages!
 
 Update 20/05/2021 
