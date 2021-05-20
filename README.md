@@ -4,6 +4,19 @@ Written in C#
 
 Now supports English and Lithuanian languages!
 
+Update 20/05/2021 
+
+Beta release v1.0.2-beta2
+
+What's new:
+
+- Added sound effects;
+
+- Added settings button (beta).
+
+Known bugs:
+- none.
+
 Update 15/05/2021
 
 Beta release v1.0.2-beta
