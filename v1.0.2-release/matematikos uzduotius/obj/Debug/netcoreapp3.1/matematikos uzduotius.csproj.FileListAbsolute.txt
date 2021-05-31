@@ -1,0 +1,120 @@
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.exe
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.deps.json
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.json
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.dev.json
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form1.resources
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfoInputs.cache
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfo.cs
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.CoreCompileInputs.cache
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.genruntimeconfig.cache
+C:\Users\pauld\Desktop\programming stuf\C#\04-10\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csprojAssemblyReference.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.exe
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.deps.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.dev.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csprojAssemblyReference.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form1.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfoInputs.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfo.cs
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.CoreCompileInputs.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.genruntimeconfig.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.2\Source\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form2.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.exe
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.deps.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.dev.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form1.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form2.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfoInputs.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfo.cs
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.CoreCompileInputs.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.genruntimeconfig.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form3.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.3\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csprojAssemblyReference.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.exe
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.deps.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.dev.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form1.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form2.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form3.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Properties.Resources.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfoInputs.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfo.cs
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.CoreCompileInputs.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\1.0.4\matematikos uzduotys backuo\matematikos uzduotius\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.genruntimeconfig.cache
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.exe
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.deps.json
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.json
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.dev.json
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csprojAssemblyReference.cache
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form1.resources
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form2.resources
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form3.resources
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Properties.Resources.resources
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.GenerateResource.cache
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfoInputs.cache
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfo.cs
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.CoreCompileInputs.cache
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\Paulius Mikalauskas\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.genruntimeconfig.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.exe
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.deps.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.dev.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csprojAssemblyReference.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form1.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form2.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form3.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Properties.Resources.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfoInputs.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfo.cs
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.CoreCompileInputs.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.1\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.genruntimeconfig.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.exe
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.deps.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.runtimeconfig.dev.json
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\bin\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csprojAssemblyReference.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.AboutBox1.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form1.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form2.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Form3.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos_uzduotius.Properties.Resources.resources
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfoInputs.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.AssemblyInfo.cs
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.csproj.CoreCompileInputs.cache
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.dll
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.pdb
+C:\Users\pauld\Desktop\matematikos uzduotys\BETA\v1.0.2\matematikos uzduotys BETAv1.0.1\matematikos uzduotius\obj\Debug\netcoreapp3.1\matematikos uzduotius.genruntimeconfig.cache
