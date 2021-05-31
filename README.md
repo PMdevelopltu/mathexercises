@@ -8,6 +8,18 @@ All beta versions supports only Lithuanian languge :).
 
 Now supports English and Lithuanian languages!
 
+Update 31/05/2021
+
+Release v1.0.2
+
+What's new:
+
+- Fixed the sound bug.
+
+Known bugs:
+
+- none.
+
 Update 20/05/2021 
 
 Beta release v1.0.2-beta2
