@@ -8,6 +8,15 @@ All beta versions supports only Lithuanian languge :).
 
 Now supports English and Lithuanian languages!
 
+Update 5/6/2021
+
+Beta release v1.0.3-beta
+
+What's new:
+
+-Redesigned menu;
+-Added menu bar to the main window.
+
 Update 31/05/2021
 
 Release v1.0.2
