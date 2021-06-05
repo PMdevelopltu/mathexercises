@@ -14,9 +14,9 @@ Beta release v1.0.3-beta
 
 What's new:
 
--Redesigned menu;
+- Redesigned menu;
 
--Added menu bar to the main window.
+- Added menu bar to the main window.
 
 Update 31/05/2021
 
