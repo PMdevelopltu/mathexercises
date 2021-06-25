@@ -1,12 +1,19 @@
 # mathexercises
 Official page of program "Matematikos užduotys" / "Math exercises". 
-Written in C# 
+Written in C#
 
-Important!
+Update 25/6/2021
 
-All beta versions supports only Lithuanian languge :).
+Beta release v1.0.3-beta3
 
-Now supports English and Lithuanian languages!
+What's new:
+
+- Changed some fonts;
+- Bigger buttons & text (it may change).
+
+Known bugs:
+
+-Tools section been greyed out, because I can't make run settings on all forms.
 
 Update 5/6/2021
 
