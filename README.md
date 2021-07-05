@@ -1,6 +1,17 @@
 # mathexercises
 Official page of program "Matematikos užduotys" / "Math exercises". 
 Written in C#
+Now swithcing to SwiftUI and macOS
+
+
+****IMPORTANT UPDATE****
+
+5th July, 2021
+
+Upcoming months, there will no be any updates (Currently learning how to code in Swift). I'm switching to macOS and SwiftUI. So, upcoming releases will be only available on macOS and only English language.
+
+****************
+
 
 Update 25/6/2021
 
