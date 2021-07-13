@@ -2,7 +2,16 @@
 Official page of program "Matematikos užduotys" / "Math exercises". 
 Written in C#
 
+****IMPORTANT UPDATE****
 
+13th July, 2021
+
+Upcoming months, there will no any updates. I staring swiching to macOS and SwiftUI.
+
+There may be some updates, but my experience with Windows come to end.
+
+                                                         -  PMDevelopltu
+************ 
 
 Update 25/6/2021
 
