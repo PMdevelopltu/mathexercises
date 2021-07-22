@@ -3,14 +3,10 @@ Official page of program "Matematikos užduotys" / "Math exercises".
 Written in C#
 
 ****IMPORTANT UPDATE****
+Updates scheduled to releasing again about Sept/Oct. (Have few more ideas for this project)
 
-13th July, 2021
-
-Upcoming months, there will no any updates. I staring swiching to macOS and SwiftUI.
-
-There may be some updates, but my experience with Windows come to end.
-
-                                                         -  PMDevelopltu
+ PMdevelopltu
+ 7/22/2021
 ************ 
 
 Update 25/6/2021
