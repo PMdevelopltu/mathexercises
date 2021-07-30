@@ -2,11 +2,12 @@
 Official page of program "Matematikos užduotys" / "Math exercises". 
 Written in C#
 
-****IMPORTANT UPDATE****
+****IMPORTANT NOTES****
 Updates scheduled to releasing again about Sept/Oct. (Have few more ideas for this project)
 
  PMdevelopltu
  7/22/2021
+ 
 ************ 
 Update 7/24/2021
 
