@@ -1,0 +1,26 @@
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\bin\x64\Debug\Mathexercises.exe.config
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\bin\x64\Debug\Mathexercises.exe
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\bin\x64\Debug\Mathexercises.pdb
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises trying with settings.csproj.AssemblyReference.cache
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\matematikos_uzduotius.AboutBox1.resources
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises_trying_with_settings.Form1.resources
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises_trying_with_settings.MDIParent1.resources
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises_trying_with_settings.Properties.Resources.resources
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises_trying_with_settings.Resource1.resources
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises trying with settings.csproj.GenerateResource.cache
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises trying with settings.csproj.CoreCompileInputs.cache
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\Mathexercises.exe
+C:\Users\PauliusMikalauskas\Documents\MEGA\Projects\Mathexercises\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\Mathexercises.pdb
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises trying with settings.csproj.AssemblyReference.cache
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\Mathexercises.exe
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\Mathexercises.pdb
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\bin\x64\Debug\Mathexercises.exe.config
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\bin\x64\Debug\Mathexercises.exe
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\bin\x64\Debug\Mathexercises.pdb
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises_trying_with_settings.Form2.resources
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises_trying_with_settings.Properties.Resources.resources
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises_trying_with_settings.Resource1.resources
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises trying with settings.csproj.GenerateResource.cache
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises trying with settings.csproj.CoreCompileInputs.cache
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\matematikos_uzduotius.AboutBox1.resources
+C:\Users\PauliusMikalauskas\Documents\GitHub\mathexercises\source code\mathexercises v1.0.4-beta1\mathexercises trying with settings\obj\x64\Debug\mathexercises_trying_with_settings.Form1.resources
