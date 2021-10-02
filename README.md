@@ -8,13 +8,13 @@ Beta release version: v1.0.4-beta1
 
 What's new:
 
--Statistics (works perfectly);
+- Statistics (works perfectly);
 
--Some bug fix.
+- Some bug fix.
 
 Known bugs:
 
--Timer does not work, fix in future releases.
+- Timer does not work, fix in future releases.
 
 Update 7/24/2021
 
