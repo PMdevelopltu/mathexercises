@@ -2,13 +2,13 @@
 Official page of program "Matematikos užduotys" / "Math exercises". 
 Written in C#
 
-****IMPORTANT NOTES****
-Updates scheduled to releasing again about Sept/Oct. (Have few more ideas for this project)
-
- PMdevelopltu
- 7/22/2021
- 
-************ 
+Update 2/10/2021
+Beta release version: v1.0.4-beta1
+What's new:
+-Statistics (works perfectly);
+-Some bug fix.
+Known bugs:
+-Timer does not work, fix in future releases.
 Update 7/24/2021
 
 Major update version v1.0.3
