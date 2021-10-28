@@ -2,6 +2,21 @@
 Official page of program "Matematikos užduotys" / "Math exercises". 
 Written in C#
 
+Note from developer
+
+28/10/21
+
+I don't know, how many people watched my project and used that program. I decited to end our journey with this project. I released v1.0.4-beta2, I wanted to release the 1.0.4 version, but I can't make it. I'm sorry. If anyone is interested in contributing in this project, dm me.
+
+P.S. 
+It been rough decision, but the end comes anyways.
+
+Yours,
+
+PMdevelopltu
+
+------------------------------------------------------
+
 Update 5/10/2021
 
 Beta release version: v1.0.4-beta2
