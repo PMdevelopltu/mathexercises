@@ -1,4 +1,5 @@
 # mathexercises
+# this repository is no longer maintained#
 Official page of program "Matematikos užduotys" / "Math exercises". 
 Written in C#
 
